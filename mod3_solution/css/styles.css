@@ -6,7 +6,7 @@ body {
 
 .container h1 {
     color: #660000;
-    text-align: center;
+    /* text-align: center; */
     font-family: Helvetica, fantasy;
     font-weight: bold;
 }
